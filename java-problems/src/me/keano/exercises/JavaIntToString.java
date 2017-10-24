@@ -1,3 +1,5 @@
+package me.keano.exercises;
+
 import java.security.Permission;
 import java.util.Scanner;
 

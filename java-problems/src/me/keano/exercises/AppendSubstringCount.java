@@ -1,3 +1,5 @@
+package me.keano.exercises;
+
 import java.awt.List;
 import java.time.DayOfWeek;
 import java.time.LocalDate;

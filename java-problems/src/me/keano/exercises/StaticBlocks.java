@@ -1,3 +1,5 @@
+package me.keano.exercises;
+
 import java.util.Scanner;
 
 public class StaticBlocks {
